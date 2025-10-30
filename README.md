@@ -20,3 +20,5 @@ o Phyluce
 
 <img width="631" height="366" alt="Captura de pantalla 2025-10-30 a la(s) 11 39 23 a m" src="https://github.com/user-attachments/assets/57a716e3-6489-46bf-82a1-219293c0273d" />
 
+
+
