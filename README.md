@@ -7,18 +7,26 @@ Aprender herramientas básicas para manejar alineamientos de DNA
 # PASOS
 
 1. Crear una cuenta de GitHub
+  Ve a Profile, después a project y  genera un nuevo proyecto. Ponle un nombre que describa lo que vas a colocar en él. 
+   Ahora vamos a generar un archivo readme
+   
 2. Descargar SeaView
-3. Visualizar las matrices generadas usando
-o Phyluce
+   https://doua.prabi.fr/software/seaview
+   
+3. Visualizar las matrices generadas usando Phyluce
+   
+
 4. Estimar los estadísticos de la matriz concatenada
 
-   Ve a Props y presiona Statistics
+   Ve a **Props y presiona **Statistics
 
-   
-
-   
 
 <img width="631" height="366" alt="Captura de pantalla 2025-10-30 a la(s) 11 39 23 a m" src="https://github.com/user-attachments/assets/57a716e3-6489-46bf-82a1-219293c0273d" />
 
+5. Vamos a descargar el editor de texto sublime
+   Abre una de las matrices
+   Abre múltiples matrices
+   Aprende Regex
+   
 
 
